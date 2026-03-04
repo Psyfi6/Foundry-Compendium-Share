@@ -1,0 +1,8 @@
+2026/03/03-20:34:27.744 34a4 Recovering log #87
+2026/03/03-20:34:27.750 34a4 Delete type=0 #87
+2026/03/03-20:34:27.750 34a4 Delete type=3 #85
+2026/03/03-20:36:53.246 2268 Level-0 table #92: started
+2026/03/03-20:36:53.247 2268 Level-0 table #92: 0 bytes OK
+2026/03/03-20:36:53.248 2268 Delete type=0 #90
+2026/03/03-20:36:53.249 2268 Manual compaction at level-0 from '!items!00vE8LGnOve9Vwzl' @ 72057594037927935 : 1 .. '!items.effects!zxFOmQDRUycWOU84.searingVengeance' @ 0 : 0; will stop at (end)
+2026/03/03-20:36:53.249 2268 Manual compaction at level-1 from '!items!00vE8LGnOve9Vwzl' @ 72057594037927935 : 1 .. '!items.effects!zxFOmQDRUycWOU84.searingVengeance' @ 0 : 0; will stop at (end)
