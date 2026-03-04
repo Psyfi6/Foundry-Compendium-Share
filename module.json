@@ -132,7 +132,7 @@
     ]
   },
   "manifest": "https://github.com/Psyfi6/Foundry-Compendium-Share/blob/main/module.json",
-  "download": "https://github.com/Psyfi6/Foundry-Compendium-Share/archive/refs/heads/main.zip",
+  "download": "https://github.com/Psyfi6/Foundry-Compendium-Share/releases/latest/download/module.json",
   "url": "https://github.com/Psyfi6/Foundry-Compendium-Share",
   "description": ""
 }
