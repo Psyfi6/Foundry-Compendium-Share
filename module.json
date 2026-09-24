@@ -1,10 +1,10 @@
 {
   "id": "Foundry-Compendium-Share",
   "title": "Foundry Compendium Share",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13"
+    "minimum": "14",
+    "verified": "14"
   },
   "flags": {
     "canUpload": true
@@ -34,7 +34,7 @@
     },
     {
       "name": "classes-and-subclasses",
-      "label": "Classes & Subclasses",
+      "label": "Classes and Subclasses",
       "path": "packs/classes-and-subclasses",
       "type": "Item",
       "system": "dnd5e",
@@ -44,9 +44,20 @@
       }
     },
     {
-      "name": "classes-and-subclasses-feats-and-feats",
-      "label": "Classes & Subclasses Feats & Feats",
-      "path": "packs/classes-and-subclasses-feats-and-feats",
+      "name": "classes-and-subclasses-features",
+      "label": "Classes & Subclasses Features",
+      "path": "packs/classes-and-subclasses-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "feats",
+      "label": "Feats",
+      "path": "packs/feats",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
@@ -78,30 +89,8 @@
     },
     {
       "name": "monsters-core",
-      "label": "Monsters (Core)",
+      "label": "Monsters Core",
       "path": "packs/monsters-core",
-      "type": "Actor",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "monsters-adventure--partner",
-      "label": "Monsters (Adventure + Partner)",
-      "path": "packs/monsters-adventure--partner",
-      "type": "Actor",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "monsters-misc",
-      "label": "Monsters MISC",
-      "path": "packs/monsters-misc",
       "type": "Actor",
       "system": "dnd5e",
       "ownership": {
