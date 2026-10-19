@@ -1,7 +1,7 @@
 {
   "id": "Foundry-Compendium-Share",
   "title": "Foundry Compendium Share",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -34,7 +34,7 @@
     },
     {
       "name": "classes-and-subclasses",
-      "label": "Classes and Subclasses",
+      "label": "Classes & Subclasses",
       "path": "packs/classes-and-subclasses",
       "type": "Item",
       "system": "dnd5e",
@@ -44,9 +44,9 @@
       }
     },
     {
-      "name": "classes-and-subclasses-features",
-      "label": "Classes & Subclasses Features",
-      "path": "packs/classes-and-subclasses-features",
+      "name": "class-and-subclass-features",
+      "label": "Clas & Subclass Features",
+      "path": "packs/class-and-subclass-features",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
